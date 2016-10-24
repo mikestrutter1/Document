@@ -1,1 +1,3 @@
-Acesta este un folder
+Acesta este un folder.
+
+Sa verifici mailul sa vezi daca ti-a raspuns Pocatilu
